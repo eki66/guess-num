@@ -1,3 +1,5 @@
+# 猜數字遊戲,並顯示與答案的大小關係及猜的次數
+
 import random
 
 r = random.randint(1, 100)
